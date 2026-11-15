@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | 🚀 **Live demo** | https://tarafals.github.io/biochip-monitor/ |
-| 🎬 **Demo video** | _YouTube link: add here_ |
+| 🎬 **Demo video** | [demo/biochip-monitor-demo.mp4](demo/biochip-monitor-demo.mp4) (3 min, Arabic narration, English captions) |
 | 📑 **Presentation** | [presentation/MetaMatrix-NASA-Space-Apps.pdf](presentation/MetaMatrix-NASA-Space-Apps.pdf) |
 
 ---
@@ -62,6 +62,7 @@ src/
   viz/          ECG trace, vein flow, risk gauge, charts
   i18n.jsx      Arabic and English strings
 presentation/   project slides (PDF)
+demo/           demo video
 ```
 
 ## Run locally
@@ -91,3 +92,5 @@ npm run build:single   # one self-contained HTML file in dist/index.html
 النموذج الأولي تطبيق ويب ببيانات محاكاة، فيه دوران (رائد الفضاء والفريق الطبي) وثلاث واجهات: بيانات الشريحة، والإدخالات اليدوية، ولوحة الاتصال، مع التبديل بين العربية والإنجليزية.
 
 **التجربة المباشرة:** https://tarafals.github.io/biochip-monitor/
+
+**فيديو العرض:** [demo/biochip-monitor-demo.mp4](demo/biochip-monitor-demo.mp4)
